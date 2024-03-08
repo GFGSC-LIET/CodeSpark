@@ -1,2 +1,3 @@
 apples=int(input())
-print((apples+1)//2)
+boxes=(apples+1)//2
+print(boxes)
